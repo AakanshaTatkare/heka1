@@ -1,0 +1,14 @@
+.carousel2{
+    position: relative;
+    top: 500px;
+}
+.carousel-control-prev,
+.carousel-control-next {
+  color: #ff0000; /* Change this to your desired color */
+  opacity: 1;
+}
+
+.carousel-control-prev:hover,
+.carousel-control-next:hover {
+  color: #00ff00; /* Change this to your desired color */
+}
